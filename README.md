@@ -48,16 +48,7 @@
 
 ---
 
-🏆 **Certifications & Achievements**
 
-- NPTEL: Cyber Physical Systems (IIT Kharagpur)
-- Oracle Java Foundation Associate
-- Postman API Fundamentals Student Expert
-- TryHackMe Cyber Security Fundamentals (**Top 6%**)
-- Google: Bits and Bytes of Computer Networking
-
-
----
 💡 **What I’m Working On**
 
 - 🔬 Web application security, bug hunting, digital forensics
