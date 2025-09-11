@@ -1,4 +1,4 @@
-<h1 align="center">🚩 Hi, I'm Mansi Singh!</h1>
+<h1 align="center"> ✨ Hi, I'm Mansi Singh!</h1>
 <h3 align="center">Cyber Security | Pentesting | Digital Forensics | Tech Explorer</h3>
 
 <p align="center">
