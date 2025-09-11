@@ -66,11 +66,13 @@
 
 ---
 
-✨ **Fun Facts**
+---
 
-- ♟️ Love chess & badminton
-- 😄 Enjoy stand-up comedy & music
-- 📚 Always upskilling and sharing with the community
+
+
+<p align="center">
+  <b>🔒 Securing today. Empowering tomorrow. Defend. Detect. Deter.</b>
+</p>
 
 ---
 
