@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mansi Singh</h1>
-<h3 align="center">Cyber Security Enthusiast | Web Pentester | Digital Forensics | Problem Solver</h3>
+<h1 align="center">🚩 Hi, I'm Mansi Singh!</h1>
+<h3 align="center">Cyber Security | Pentesting | Digital Forensics | Tech Explorer</h3>
 
 <p align="center">
   <a href="mailto:mansisingh.singh14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -9,42 +9,64 @@
 
 ---
 
-🌱 **About Me**  
-- 🕵️ Cyber Security and Digital Forensics Undergrad @ VIT Bhopal (2022-26, CGPA: 8.96)
-- 🛡️ Interests: Web Application Security, Pentesting, Digital Forensics, Steganography, Car & Android Hacking, OS Forensics
-- 🛠️ Tools: Kali Linux, Splunk, Wireshark, BurpSuite, OWASP ZAP, OpenVAS, and more
-- 💡 Languages: Python, Java, Bash, JS, MySQL
-- 🔍 Certifications: NPTEL Cyber Physical Systems (IIT Kharagpur), Oracle Java Foundation, Postman APIs, TryHackMe Cyber Security Fundamentals
-- ⚡ Achievements: TryHackMe Top 6%, 100 Days of Code, Content & Non-Tech Lead Roles
-- 🎯 Soft Skills: Problem Solving, Adaptability, Self-Learning, Teamwork
+🌟 **About Me**  
+- 🧑‍💻 B.Tech Cyber Security & Digital Forensics @ VIT Bhopal (CGPA: 8.96, 2022-2026)
+- 🕵️ Actively exploring **ethical hacking, web pentesting, digital forensics, steganography, car & Android hacking, OS forensics, and data recovery**
+- 👩‍💻 Passionate about learning, taking on new challenges, and building secure systems
+- 🗣️ Languages: English, Hindi
 
 ---
 
 🛠️ **Tech Stack & Tools**  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnubash)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![BurpSuite](https://img.shields.io/badge/-Burp_Suite-05122A?style=flat&logoColor=orange)
-![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-05122A?style=flat&logo=owasp)
-![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/BurpSuite-FF6600?logo=burpsuite&logoColor=black&style=flat-square"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?logo=owasp&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenVAS-4E9A06?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/b
+
+-->
+
+🏆 **Certifications & Achievements**  
+- NPTEL: Cyber Physical Systems (IIT Kharagpur)
+- Oracle Java Foundation Associate
+- Postman API Fundamentals Student Expert
+- TryHackMe Cyber Security Fundamentals (Top 6%)
+
+---
+
+💡 **What I’m working on:**  
+- 🔬 Web application security, bug hunting, digital forensics
+- 🛡️ Always exploring new cyber tools, frameworks, and real-world vulnerabilities
 
 ---
 
 📫 **How to reach me:**  
-- Email: mansisingh.singh14@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/mansi-singh14)
-- [GitHub](https://github.com/mansisingh14)
+- Email: mansisingh.singh14@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/mansi-singh14)  
+- [GitHub](https://github.com/mansisingh14)  
 
 ---
 
-✨ **Fun facts & Interests**  
-🎲 Chess & Badminton | 🎤 Stand-up Comedy | 🎶 Songs | 💻 Always Learning New Security Skills
+✨ **Fun Facts**  
+- ♟️ Love chess & badminton  
+- 😄 Enjoy stand-up comedy & music  
+- 📚 Always upskilling and sharing with the community
+
+---
 
 <!--
-**mansisingh14/mansisingh14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mansisingh14/mansisingh14** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
+
+
+
