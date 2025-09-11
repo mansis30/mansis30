@@ -23,11 +23,12 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square"/>
-  
+  <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" /> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/>
-  
- 
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burp-suite&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/BurpSuite-FF6600?logo=burpsuite&logoColor=black&style=flat-square"/>
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?logo=owasp&logoColor=white&style=flat-square"/>
