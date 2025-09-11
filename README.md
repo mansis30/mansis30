@@ -48,6 +48,7 @@
 - Oracle Java Foundation Associate
 - Postman API Fundamentals Student Expert
 - TryHackMe Cyber Security Fundamentals (**Top 6%**)
+- Google: Bits and Bytes of Computer Networking
 
 
 ---
