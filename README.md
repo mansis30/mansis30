@@ -47,6 +47,12 @@
 </p>
 
 ---
+📊 **Ops & Training Grounds**
+
+**TryHackMe**  
+[![TryHackMe Badge](https://tryhackme.com/badge/image/2358771.png)](https://tryhackme.com/p/mansis30)
+
+---
 
 
 💡 **What I’m Working On**
