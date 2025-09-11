@@ -58,11 +58,7 @@
 
 ---
 
-📫 **How to reach me**
 
-- 📧 Email: [mansisingh.singh14@gmail.com](mailto:mansisingh.singh14@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mansi-singh14)
-- [GitHub](https://github.com/mansisingh14)
 
 ---
 
