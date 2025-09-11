@@ -11,7 +11,7 @@
 
 🌟 **About Me**
 
-- 🧑‍💻 B.Tech Cyber Security & Digital Forensics @ VIT Bhopal (CGPA: 8.96, 2022-2026)
+- 🧑‍💻 B.Tech Cyber Security & Digital Forensics @ VIT Bhopal (CGPA: 8.98, 2022-2026)
 - 🕵️ Focusing on: **Ethical Hacking, Web Pentesting, Digital Forensics, OS Forensics, Data Recovery**
 - 👩‍💻 Passionate about learning, taking on new challenges, and building secure systems
 - 🗣️ Languages: English, Hindi
