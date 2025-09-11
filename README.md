@@ -49,10 +49,7 @@
 - Postman API Fundamentals Student Expert
 - TryHackMe Cyber Security Fundamentals (**Top 6%**)
 
----
-### 📊 Ops & Training Grounds
-**TryHackMe**  
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2358771)](https://tryhackme.com/p/mansis30)  
+
 ---
 💡 **What I’m Working On**
 
