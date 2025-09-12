@@ -53,19 +53,19 @@
 ---
 📊 **Ops & Training Grounds**
 
-TryHackMe 
+**TryHackMe**
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/mansis30.png?updated=20250909" alt="Your Image Badge" />
 
-Leetcode
+**Leetcode**
 
 [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=singh_m30&?updated=20250909&theme=dark)](https://leetcode.com/singh_m30/)
 
-Github Stats
+**Github Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansis30&show_icons=true&theme=tokyonight) 
 
-Top Languages
+**Top Languages**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansis30&layout=compact&theme=tokyonight)
 
