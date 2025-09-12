@@ -49,11 +49,11 @@
 ---
 📊 **Ops & Training Grounds**
 
-**TryHackMe**  
-[![TryHackMe Badge](https://tryhackme.com/badge/image/2358771.png)](https://tryhackme.com/p/mansis30)
+TryHackMe 
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/mansis30.png?updated=20250909" alt="Your Image Badge" />
 
 ---
-
 
 💡 **What I’m Working On**
 
