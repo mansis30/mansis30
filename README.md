@@ -8,6 +8,10 @@
   <a href="https://leetcode.com/singh_m30" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/mansisingh2022">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="mansisingh2022"/>
+</a>
+  
  
 
 
@@ -52,6 +56,19 @@
 TryHackMe 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/mansis30.png?updated=20250909" alt="Your Image Badge" />
+
+Leetcode
+
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=singh_m30&?updated=20250909&theme=dark)](https://leetcode.com/singh_m30/)
+
+Github Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansis30&show_icons=true&theme=tokyonight) 
+
+Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansis30&layout=compact&theme=tokyonight)
+
 
 ---
 
