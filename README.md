@@ -63,11 +63,11 @@
 
 **Github Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansis30&show_icons=true&theme=tokyonight) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansis30&?updated=20250921&show_icons=true&theme=tokyonight) 
 
 **Top Languages**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansis30&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansis30&?updated=20250921&layout=compact&theme=tokyonight)
 
 
 ---
