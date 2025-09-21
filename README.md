@@ -55,11 +55,11 @@
 
 **TryHackMe**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/mansis30.png?updated=20250914" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/mansis30.png?updated=20250921" alt="Your Image Badge" />
 
 **Leetcode**
 
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=singh_m30&?updated=20250914&theme=dark)](https://leetcode.com/singh_m30/)
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=singh_m30&?updated=20250921&theme=dark)](https://leetcode.com/singh_m30/)
 
 **Github Stats**
 
