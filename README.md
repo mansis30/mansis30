@@ -55,19 +55,20 @@
 
 **TryHackMe**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/mansis30.png?updated=20250921" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/mansis30.png?updated=20251004" alt="Your Image Badge" />
 
 **Leetcode**
 
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=singh_m30&?updated=20250921&theme=dark)](https://leetcode.com/singh_m30/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/singh_m30)](https://leetcode.com/singh_m30/)
+
 
 **Github Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansis30&?updated=20250921&show_icons=true&theme=tokyonight) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansis30&?updated=20251004&show_icons=true&theme=tokyonight) 
 
 **Top Languages**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansis30&?updated=20250921&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansis30&?updated=20251004&layout=compact&theme=tokyonight)
 
 
 ---
