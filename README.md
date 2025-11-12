@@ -55,7 +55,7 @@
 
 **TryHackMe**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/mansis30.png?updated=20251004" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/wicked030.png?updated=20251112" alt="Your Image Badge" />
 
 **Leetcode**
 
@@ -64,11 +64,11 @@
 
 **Github Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansis30&?updated=20251004&show_icons=true&theme=tokyonight) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansis30&?updated=20251112&show_icons=true&theme=tokyonight) 
 
 **Top Languages**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansis30&?updated=20251004&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansis30&?updated=20251112&layout=compact&theme=tokyonight)
 
 
 ---
