@@ -55,7 +55,7 @@
 
 **TryHackMe**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/wicked030.png?updated=20251207" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/wicked030.png" alt="Your Image Badge" />
 
 **Leetcode**
 
@@ -64,12 +64,16 @@
 
 **Github Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansis30&show_icons=true&theme=tokyonight) 
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mansis30&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api?username=mansis30&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mansis30&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mansis30&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 **Top Languages**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansis30&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mansis30&layout=compact&theme=tokyonight)
 
 ---
 
