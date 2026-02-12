@@ -55,19 +55,17 @@
 
 
 <p align="left">
-  
   <a href="https://github.com/mansis30">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansis30&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansis30&theme=tokyonight&hide_border=true&stroke=000000&background=0D1117" alt="GitHub Streak" />
   </a>
 </p>
 
-<div align="left">
-  <a href="https://leetcode.com/u/singh_m30/">
-    <img src="https://leetcode-stats.vercel.app/api?username=singh_m30&theme=Dark" alt="LeetCode Stats" />
-  </a>
-</div>
+
+
+<img src="https://leetcode-stats.vercel.app/api?username=singh_m30&theme=Dark&cache=1" alt="LeetCode Stats" />
 
 **TryHackMe**
+
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/wicked030.png?updated=20260205" alt="Your Image Badge" />
 
