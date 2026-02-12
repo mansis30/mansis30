@@ -51,20 +51,31 @@
 </p>
 
 ---
-📊 **Ops & Training Grounds**
+📊 **Coding profile and stats**
+
+
+
+<p align="left">
+  
+  <a href="https://github.com/mansis30">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansis30&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://leetcode.com/u/singh_m30/">
+    <img src="https://leetcode-stats.vercel.app/api?username=singh_m30&theme=Dark" alt="LeetCode Stats" />
+  </a>
+  
+
+
+</p>
+
 
 **TryHackMe**
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/wicked030.png?updated=20260205" alt="Your Image Badge" />
 
-**Leetcode**
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/singh_m30)](https://leetcode.com/singh_m30/)
-
-
-**Github Stats**
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mansis30&show_icons=true&theme=tokyonight)
 
 
 **Top Languages**
