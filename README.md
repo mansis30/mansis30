@@ -61,15 +61,11 @@
   </a>
 </p>
 
-<p align="left">
+<div align="left">
   <a href="https://leetcode.com/u/singh_m30/">
     <img src="https://leetcode-stats.vercel.app/api?username=singh_m30&theme=Dark" alt="LeetCode Stats" />
   </a>
-  
-
-
-</p>
-
+</div>
 
 **TryHackMe**
 
